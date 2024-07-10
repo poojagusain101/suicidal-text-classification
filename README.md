@@ -7,3 +7,5 @@ Social media data analysis using machine learning offers a viable method for ide
 I developed a very basic suicidal ideation classifier using Natural Language Processing, a branch of machine learning, to determine if a text is likely to include suicidal thoughts or not. In this various machine learning algorithms are used and their accuracy is compared to get the best results.
 
 Dataset Link: https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch
+
+App Link: https://suicidal-text-classification.streamlit.app/
